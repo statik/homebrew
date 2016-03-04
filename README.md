@@ -59,3 +59,4 @@ Our bottles (binary packages) are hosted by Bintray.
 Homebrew is a member of the [Software Freedom Conservancy](https://sfconservancy.org)
 
 [![Software Freedom Conservancy](https://sfconservancy.org/img/conservancy_64x64.png)](https://sfconservancy.org)
+
